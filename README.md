@@ -1,2 +1,12 @@
 # Guyana-Covid-Dashboard
-Python Dashboard to track covid cases in Guyana.
+This ia python project hosted on heroku to track the Covid-19 cases in Guyana.
+
+
+### Features
+
+## Main Packages
+* Plotly
+* Dash
+
+
+
